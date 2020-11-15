@@ -1,23 +1,3 @@
----
-date: 2020-11-15 15:00:00
-layout: post
-title: Introduction To Scikit-Learn
-subtitle: "Welcome to our 1st Blog in Scikit-learn Series"
-description: >-
-  `Scikit-learn` is an open source machine learning library that supports supervised and unsupervised learning. It also provides various tools for model fitting, data preprocessing, model selection and evaluation, and many other utilities.
-image: >-
-  https://lh3.googleusercontent.com/9G0cbQzN7wsdAX0NOGc9xyNWQRMKUlRG_slO4R6lzy4ejPKf0IlalRTTVw70Bn3gYJzy0ahPzKcmWnxx3L3z45LhQzyjmaBNh22vVqEt0Z9SHb1onwfUwdcy7AIKnL1EgLKt3uiVD1ur341WyyqErZ3hXGW_qSfZNVP5Ubxs0wny9chpwGlUab6Q6MJcPXMuI9W6oMtWI0mrD1Q_QeNL2qIyQJ4QroO8O8-9JqNq-jEmWHp7kBd_yPzaxIPtWodq6BbngrVvOUAft7nZoVcDfN0tVCxIshEvefCJoklxX6amg5Gm6qFq2-Roq3aLAEsosKgZisUclGMQaUtnSRNMwO_VKTvs0teayq5axNi77Bkje3W-GBK_vMkia-uCdVdR59Py91j-Lej6nBbi4BUbhJO_KQ4Jp1m-71CGh2iOr3A4GXha7U7J43IatBa-9N9cXEb3T1XnCGIM40ICRVpGDfsoPesvI7UO-_uuZjWHi2rStvkxGDfzULwJwvK9MMi9iXZtcAl8d0MqRgeyhgHAXToSZ3m3nvYm60ux1VdmZgF3d7tjxbhJYDyV0PIn9vn29NihWwTbz4DHaXGLII6wH7nqONXGeiPfVsZVsCLw44_GiSxSM9tYPbuT9zSVLOTitPEQx4slymd_1xePyLKA7U2fTLiuLW-9U6ZTj2WguzB14zOYPCmCetUpv9yPVQ=w1000-h350-no?authuser=0
-optimized_image: >-
-  https://lh3.googleusercontent.com/9G0cbQzN7wsdAX0NOGc9xyNWQRMKUlRG_slO4R6lzy4ejPKf0IlalRTTVw70Bn3gYJzy0ahPzKcmWnxx3L3z45LhQzyjmaBNh22vVqEt0Z9SHb1onwfUwdcy7AIKnL1EgLKt3uiVD1ur341WyyqErZ3hXGW_qSfZNVP5Ubxs0wny9chpwGlUab6Q6MJcPXMuI9W6oMtWI0mrD1Q_QeNL2qIyQJ4QroO8O8-9JqNq-jEmWHp7kBd_yPzaxIPtWodq6BbngrVvOUAft7nZoVcDfN0tVCxIshEvefCJoklxX6amg5Gm6qFq2-Roq3aLAEsosKgZisUclGMQaUtnSRNMwO_VKTvs0teayq5axNi77Bkje3W-GBK_vMkia-uCdVdR59Py91j-Lej6nBbi4BUbhJO_KQ4Jp1m-71CGh2iOr3A4GXha7U7J43IatBa-9N9cXEb3T1XnCGIM40ICRVpGDfsoPesvI7UO-_uuZjWHi2rStvkxGDfzULwJwvK9MMi9iXZtcAl8d0MqRgeyhgHAXToSZ3m3nvYm60ux1VdmZgF3d7tjxbhJYDyV0PIn9vn29NihWwTbz4DHaXGLII6wH7nqONXGeiPfVsZVsCLw44_GiSxSM9tYPbuT9zSVLOTitPEQx4slymd_1xePyLKA7U2fTLiuLW-9U6ZTj2WguzB14zOYPCmCetUpv9yPVQ=w1000-h350-no?authuser=0
-category: blog
-tags:
-  - welcome
-  - python
-  - blog
-  - scikit-learn
-author: Ketan Bansal
----
-
 # Introduction
 
 Scikit learn is a machine learning library for python programming language which offers various important features for machine learning such as classification, regression and clustering algorithms including support vector machines, random forests, gradient boosting, k-means and DBSCAN, and is designed to inter-operate with the python numerical and scientific libraries like **Numpy** and **SciPy**.
